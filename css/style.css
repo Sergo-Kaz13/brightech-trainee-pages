@@ -1,0 +1,16 @@
+/* cardo-regular - latin */
+@font-face {
+  font-family: "Cardo";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/cardo-v19-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local(""), url("../fonts/cardo-v19-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/cardo-v19-latin-regular.woff2") format("woff2"), url("../fonts/cardo-v19-latin-regular.woff") format("woff"), url("../fonts/cardo-v19-latin-regular.ttf") format("truetype"), url("../fonts/cardo-v19-latin-regular.svg#Cardo") format("svg"); /* Legacy iOS */
+}
+/* inter-regular - latin */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/inter-v12-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local(""), url("../fonts/inter-v12-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/inter-v12-latin-regular.woff2") format("woff2"), url("../fonts/inter-v12-latin-regular.woff") format("woff"), url("../fonts/inter-v12-latin-regular.ttf") format("truetype"), url("../fonts/inter-v12-latin-regular.svg#Inter") format("svg"); /* Legacy iOS */
+}
